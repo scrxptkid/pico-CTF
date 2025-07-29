@@ -8,7 +8,7 @@
 ## Description:
 Can you crack the password to get the flag? Download the password checker [here](https://artifacts.picoctf.net/c/31/level5.py) and you'll need the encrypted [flag](https://artifacts.picoctf.net/c/31/level5.flag.txt.enc) and the [hash](https://artifacts.picoctf.net/c/31/level5.hash.bin) in the same directory too. Here's a [dictionary](https://artifacts.picoctf.net/c/31/dictionary.txt) with all possible passwords based on the password conventions we've seen so far.
 
-## Walkthrough
+## Write-up:
 Now this one is tricky. I even had to check the hints to see what's wrong. I consider this as a solid medium level for those who's new to python and programming at all.
 
 This one as PW Crack 4 requires some python skills.
