@@ -8,7 +8,7 @@
 ## Description:
 Can you crack the password to get the flag? Download the password checker [here](https://artifacts.picoctf.net/c/19/level4.py) and you'll need the encrypted [flag](https://artifacts.picoctf.net/c/19/level4.flag.txt.enc) and the [hash](https://artifacts.picoctf.net/c/19/level4.hash.bin) in the same directory too. There are 100 potential passwords with only 1 being correct. You can find these by examining the password checker script.
 
-## Walkthrough
+## Write-up:
 If you read my [PW Crack 3 walkthrough](https://github.com/scrxptkid/pico-CTF/blob/main/General%20Skills/Medium/PW%20Crack%203.md) you'll find PW crack 4 easy, cuz the only thing that changed is the amount of potential passwords. But the bruteforce code will manage it easily.
 
 code:
