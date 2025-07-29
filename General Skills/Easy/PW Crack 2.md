@@ -8,7 +8,7 @@
 ## Description:
 Can you crack the password to get the flag? Download the password checker [here](https://artifacts.picoctf.net/c/14/level2.py) and you'll need the encrypted [flag](https://artifacts.picoctf.net/c/14/level2.flag.txt.enc) in the same directory too.
 
-## Walkthrough
+## Write-up:
 Now things get more interesting. Again use nano to open and read the file.
 ```bash
 $ nano level2.py
